@@ -1,0 +1,23 @@
+.bg-primary{
+    background:black;
+}
+body{
+    background-color: #FFF96A;
+}
+.mt20{
+    margin-top: 20px;
+}
+.container-custom{
+    width: 95%! important;
+    margin: auto;
+}
+h1.ss{
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Rubik Distressed', cursive;
+    font-family: 'Teko', sans-serif;
+   
+
+}
